@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Política de seguridad
+    url: https://github.com/andrescardona7/.github/blob/main/SECURITY.md
+    about: Informe vulnerabilidades de forma privada. No use issues públicos para seguridad.
